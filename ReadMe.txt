@@ -1,4 +1,6 @@
 INTRODUCTION:-
+One can download the dataset from->  
+       https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
 #### In this notebook I'm analysising Kiva Dataset. 
 Kiva.org is an online crowdfunding platform to extend financial services 
 to  poor and financially excluded people around the world.
